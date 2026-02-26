@@ -8,10 +8,10 @@ By default the container sleeps forever. You can optionally pass a number of sec
 
 ```bash
 # Sleep forever
-docker run ghcr.io/jdetmold/dockersleep
+docker run ghcr.io/authgrid-io/dockersleep
 
 # Sleep for one hour
-docker run ghcr.io/jdetmold/dockersleep 3600
+docker run ghcr.io/authgrid-io/dockersleep 3600
 ```
 
 ## How it works
